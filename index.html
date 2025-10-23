@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glup.io</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="gameCanvas"></canvas>
+    
+    <div id="startScreen">
+        <h1 class="screen-title">🎮 GLUP.IO</h1>
+        <div class="input-container">
+            <input type="text" id="playerName" placeholder="İsmini gir..." maxlength="15">
+        </div>
+        <button id="startButton">Oyuna Başla</button>
+        <button id="helpButton">Nasıl Oynanır?</button>
+    </div>
+
+    <div id="gameOverScreen">
+        <h1 class="screen-title">Oyun Bitti!</h1>
+        <div class="game-over-score">
+            Skorun: <span id="finalScore">0</span>
+        </div>
+        <button id="restartButton">Yeniden Oyna</button>
+    </div>
+
+    <div id="leaderboard" style="display: none;">
+        <div class="leaderboard-title">🏆 En Büyük 4</div>
+        <div id="leaderboardList"></div>
+    </div>
+
+    <div id="score" style="display: none;">
+        Skor: <span id="currentScore">0</span>
+    </div>
+
+    <button id="soundToggle" style="display: none;">🔊 Ses: Açık</button>
+
+    <div id="joystick">
+        <div id="joystickKnob"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
