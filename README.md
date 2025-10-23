@@ -1,7 +1,7 @@
 # GLUP.IO
 
 <p align="center">
-  <img src="assets/icon.svg" alt="GLUP.IO logo" width="140" height="140">
+  🎮
 </p>
 
 > Havalı. Hızlı. Görsel.
