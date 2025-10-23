@@ -20,7 +20,7 @@ GLUP.IO, modern web teknolojileriyle (WebGL / Canvas / JS Frameworkleri) oluştu
 - Geliştirici dostu dokümantasyon ve örnekler
 
 Canlı Demo
-- Demo: (varsa buraya ekleyin) — örnek: https://glup.io/demo
+-  https://alibasboga.github.io/GLUP.IO/
 
 Hızlı Başlangıç
 
