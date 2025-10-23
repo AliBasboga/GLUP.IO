@@ -75,7 +75,3 @@ Lisans
 Teşekkürler
 - GLUP.IO'yu kullanmayı seçtiğiniz için teşekkürler — hadi projeyi havalı hale getirelim 🚀
 
-Notlar / Gelecek Planları (opsiyonel)
-- Şablon bileşen kütüphanesi
-- Gerçek zamanlı işbirliği prototipi
-- Örnek shader koleksiyonu
